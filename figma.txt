@@ -1,0 +1,3 @@
+- To use Smart Animate make sure you give the same name to shapes in different frames.
+
+- Distance between two elements => If you select the two layers you want, a little red line will appear halfway between them. You can drag that up and down to modify the space between them. You can also change the distance in the inspector.
